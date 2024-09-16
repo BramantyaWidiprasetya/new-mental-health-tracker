@@ -12,4 +12,4 @@ class MoodEntry(models.Model):
     def is_mood_strong(self):
         return self.mood_intensity > 5
     
-    #adbabudoudvds uisdudispo[]
+#testing push pws part 1
